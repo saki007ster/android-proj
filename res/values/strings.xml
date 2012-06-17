@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, TestappActivity!</string>
-    <string name="app_name">Testapp</string>
+    <string name="hello">Hello World, Hi this is saket</string>
+    <string name="app_name">Saket</string>
 
 </resources>
